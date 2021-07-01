@@ -2,7 +2,7 @@
 - 👀 I’m interested in DevOps Engineer and Pruduction Support Analyst roles
 - 🌱 I’m daily practising DevOps
 - 💞️ I’m looking to collaborate on DevOps
-- 📫 How to reach me .. raghu4win@hotmail.com
+
 
 <!---
 raghunwin/raghunwin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
