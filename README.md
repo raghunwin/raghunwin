@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @raghunwin
 - 👀 I’m interested in DevOps Engineer and Pruduction Support Analyst roles
-- 🌱 I’m daily practising DevOps
+- 🌱 I enjoy working on  DevOps tools
 - 💞️ I’m looking to collaborate on DevOps
 
 
